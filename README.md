@@ -1,3 +1,9 @@
+## Project Motivation
+
+* This project is not about cryptocurrency.
+* It was built to explore distributed systems concepts such as
+* consensus, gossip-based replication, and data integrity via Merkle trees.
+
 # 🪙 TinyChain — Minimal Blockchain with REST + PoA/PoS + Gossip + Merkle Proofs
 
 TinyChain is an **educational blockchain prototype** written in pure Python.  
